@@ -524,3 +524,9 @@
       width: 100%;
     }
   }
+
+  footer{
+    font-family: 'Libre Franklin', sans-serif;
+    background-color: grey;
+    color: white;
+  }
